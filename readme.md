@@ -11,7 +11,7 @@ creator:
 
 # Solar System
 
-![image]()
+![image](http://www.swindonstargazers.com/beginners/solarsystem.jpg)
 
 ## Exercise Objectives
 * Gain practice accessing and manipulating elements in arrays and objects.
