@@ -42,7 +42,7 @@ Here is an example of all tests passing:
 
 - Follow the prompts below. Given the `solarSystem` data structure...
 - Write your javascript code in `homework.js`.
-- Open up a new tab in terminal (`ctrl` + `t`). Run `npm test` to check each solution.
+- Open up a new tab in terminal (`cmd` + `t`). Run `npm test` to check each solution.
 - When you're ready to submit, you will take a screen shot of your tests (like above) and submit that along with the normal homework submission format.
 
 **Remember,** we are not "hard coding" values to the variables. Use your knowledge to access and change the data. Refer to the class notes if you need to. If the tests pass, but you have hard-coded the values, you won't receive credit for the problem.
